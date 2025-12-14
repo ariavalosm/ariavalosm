@@ -21,8 +21,9 @@ I'm a **Software Engineer** with a strong front-end focus and a passion for buil
 
 ### 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,nodejs,webflow&theme=light)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=python,bootstrap,tailwind,figma,github,cypress,ai,indesignnext&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,webflow,nextjs&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=python,bootstrap,tailwind,figma,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=photoshop,ai&theme=light)](https://skillicons.dev)
 
 ---
 
