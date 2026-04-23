@@ -1,10 +1,3 @@
-<h3 align="center">
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="120" /><br>
-  Hey there! I’m Ari ✨<br>
-</h3>
-
----
-
 ## 👩‍💻 Software Engineer (Front-end → Full-Stack)
 
 I build accessible, user-centered, and high-quality digital products, with a strong foundation in front-end development.
