@@ -7,34 +7,32 @@
 
 ### 👩🏻‍💻 About Me
 
-I'm a **Software Engineer** with a strong front-end focus and a passion for building accessible, inclusive, and high-quality digital products.
+## 👩‍💻 Software Engineer (Front-end focused)
 
-🔍 With a hybrid background in **full-stack development** and **QA (manual & automated testing)**, I thrive at the intersection of code, usability, and quality.
+I build accessible, user-centered, and high-quality digital products.
 
-🎨 My curiosity led me to study **UX, accessibility, and behavior science**, and I'm currently pursuing **Design with a focus on project management in tech**. I believe in the power of **human-computer interaction** to shape better tools for everyone.
+🔍 Background in full-stack development + QA (manual & automated testing), bringing a strong focus on quality, usability, and performance.
 
-🧠 I'm also an advocate for **neurodiversity in tech**. As an autistic woman in the field, I care deeply about designing **empathetic**, **accessible**, and **human-centered** solutions.
+🎨 Interested in UX, accessibility, and human behavior — bridging the gap between code and user experience.
 
-🤖 In my free time, I love exploring creative projects involving **AI**, always looking for new ways to combine technology, creativity, and social good.
+🧠 Currently studying Design with a focus on project management in tech.
 
----
+🤖 I enjoy building creative projects with AI and exploring ways to combine technology, creativity, and social impact.
 
-### 🛠 Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,webflow,nextjs&theme=light)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=python,bootstrap,tailwind,figma,github&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=photoshop,ai&theme=light)](https://skillicons.dev)
+🌱 Advocate for neurodiversity in tech, committed to inclusive and empathetic design.
 
 ---
 
-### 🌱 Currently Learning
+### 🛠 Tech & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,wordpress&theme=light)](https://skillicons.dev)  
-+ Product Design  
-+ Project Management  
-+ Backend Foundations
+* Front-end: HTML, CSS, JavaScript
+* Testing: Cypress (automation + E2E)
+* QA: Manual & automated testing
+* Others: Git, APIs, basic full-stack knowledge
+
 
 ---
+
 
 ### 🌐 Connect With Me
 
