@@ -18,11 +18,12 @@ I build accessible, user-centered, and high-quality digital products, with a str
 
 ### 🛠 Tech & Tools
 
-* Front-end: HTML, CSS, JavaScript
+* Front-end: HTML, CSS, JavaScript, React, Vue
 * Back-end: APIs, system design fundamentals, scalable architectures
 * Testing: Cypress (E2E, automation)
 * QA: Manual & automated testing
 * Tools: Git, REST APIs
+* Workflow: Agile (Scrum/Kanban), iterative development, CI/CD 
 
 
 ---
