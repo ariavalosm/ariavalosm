@@ -5,30 +5,31 @@
 
 ---
 
-### 👩🏻‍💻 About Me
+## 👩‍💻 Software Engineer (Front-end → Full-Stack)
 
-## 👩‍💻 Software Engineer (Front-end focused)
+I build accessible, user-centered, and high-quality digital products, with a strong foundation in front-end development.
 
-I build accessible, user-centered, and high-quality digital products.
+🔍 Background in full-stack fundamentals and QA (manual & automated testing), bringing a quality-driven mindset across the entire development lifecycle.
 
-🔍 Background in full-stack development + QA (manual & automated testing), bringing a strong focus on quality, usability, and performance.
+🏗️ Expanding into back-end development with a focus on architecture, system design, and scalable applications.
 
-🎨 Interested in UX, accessibility, and human behavior — bridging the gap between code and user experience.
+🎨 Interested in UX, accessibility, and human behavior — creating solutions that are both functional and intuitive.
 
-🧠 Currently studying Design with a focus on project management in tech.
+🧠 Studying Design with a focus on project management in tech, bridging engineering with product thinking.
 
 🤖 I enjoy building creative projects with AI and exploring ways to combine technology, creativity, and social impact.
 
-🌱 Advocate for neurodiversity in tech, committed to inclusive and empathetic design.
+🌱 Advocate for neurodiversity in tech, committed to inclusive and empathetic digital experiences.
 
 ---
 
 ### 🛠 Tech & Tools
 
 * Front-end: HTML, CSS, JavaScript
-* Testing: Cypress (automation + E2E)
+* Back-end: APIs, system design fundamentals, scalable architectures
+* Testing: Cypress (E2E, automation)
 * QA: Manual & automated testing
-* Others: Git, APIs, basic full-stack knowledge
+* Tools: Git, REST APIs
 
 
 ---
