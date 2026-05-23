@@ -1,36 +1,60 @@
+
 ## 👩‍💻 Software Engineer (Front-end → Full-Stack)
 
-I build accessible, user-centered, and high-quality digital products, with a strong foundation in front-end development.
+I build accessible, user-centered digital products with a strong foundation in front-end development and a quality-driven engineering mindset.
 
-🔍 Background in full-stack fundamentals and QA (manual & automated testing), bringing a quality-driven mindset across the entire development lifecycle.
-
-🏗️ Expanding into back-end development with a focus on architecture, system design, and scalable applications.
-
-🎨 Interested in UX, accessibility, and human behavior — creating solutions that are both functional and intuitive.
-
-🧠 Studying Design with a focus on project management in tech, bridging engineering with product thinking.
-
-🤖 I enjoy building creative projects with AI and exploring ways to combine technology, creativity, and social impact.
-
-🌱 Advocate for neurodiversity in tech, committed to inclusive and empathetic digital experiences.
+I started writing code and quickly found myself asking: *who is this for, and how will it be experienced?*  
+That question still defines how I design, build, and evaluate software today.
 
 ---
 
-### 🛠 Tech & Tools
+## 🧠 How I work
 
-* Front-end: HTML, CSS, JavaScript, React, Vue
-* Back-end: APIs, system design fundamentals, scalable architectures
-* Testing: Cypress (E2E, automation)
-* QA: Manual & automated testing
-* Tools: Git, REST APIs
-* Workflow: Agile (Scrum/Kanban), iterative development, CI/CD 
+I have experience across frontend, backend, and QA, which gives me a full-picture understanding of how systems are built, how they fail, and how users interact with them in real contexts.
 
+I don’t treat quality as a final step. I think of it as something that exists across the entire lifecycle of a product—from design decisions to implementation and testing.
+
+Before jumping into solutions, I focus on understanding the problem:
+- identifying patterns
+- connecting system behavior
+- anticipating edge cases
+- designing with intention and clarity
+
+Recently, I’ve been going deeper into system design and software architecture, especially around scalability and maintainability.
 
 ---
 
+## ♾️ Perspective
 
-### 🌐 Connect With Me
+As an autistic person in tech, I bring strong attention to detail and pattern recognition. I often notice inconsistencies, edge cases, and opportunities for improvement that can be easily overlooked.
+
+Combined with my focus on accessibility, this shapes how I contribute to building more inclusive, reliable, and thoughtful digital experiences.
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** React, Next.js, JavaScript  
+**Backend:** Python, APIs, system design fundamentals  
+**Testing / QA:** Cypress (E2E automation), manual & automated testing  
+**Tools:** Git, REST APIs  
+**Concepts:** Accessibility, scalable architecture, CI/CD, Agile (Scrum/Kanban)
+
+---
+
+## 🌱 Interests
+
+- UX & human-centered design  
+- Accessibility in software  
+- System design & architecture  
+- AI-assisted creative projects  
+- Technology with social impact  
+
+---
+
+## 🌐 Let’s connect
+
+If you're building systems where product thinking, user experience, and engineering quality truly matter, I’d be happy to connect.
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/arianna-avalos-a6a38b224/)
 
-Let’s connect, collaborate, and build meaningful tech — together. ✨
