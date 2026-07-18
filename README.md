@@ -42,6 +42,6 @@ I'm autistic, and that's part of how I work, not a footnote. It gives me a level
 
 ## 🌐 Let's connect
 
-If you're building products where product thinking, user experience, and engineering quality actually matter, let's talk.
+If you're building products where product thinking, user experience, and engineering quality actually matter, let's talk.<br>
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/arianna-avalos-a6a38b224/)
 
