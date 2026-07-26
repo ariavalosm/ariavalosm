@@ -1,47 +1,56 @@
+# Hi, I'm Arianna 👋
 
-# Product Engineer | Frontend-heavy, full-stack curious
+**Product Engineer** passionate about building thoughtful, reliable, and user-centered software.
 
-I build software by thinking about the product first: who uses it, what problem it solves, and what happens when something breaks in the real world. Code is the tool; product judgment is what decides where and how I use it.
+> *Code is the tool. Product judgment decides how to use it.*
 
-I started out writing code and quickly landed on the question that still defines how I work: **who is this for, and how will it be experienced?**
+I believe great products are built by understanding people first. My approach combines engineering, product thinking, and quality to create software that is scalable, maintainable, and enjoyable to use.
 
-## 🧠 How I think about product
+With experience across frontend development, backend fundamentals, and Quality Engineering, I enjoy working throughout the product lifecycle—from understanding user needs and designing solutions to implementation, testing, and continuous improvement.
 
-I come from an unconventional path: frontend, backend, and QA. That gives me a full picture of how systems get built, how they fail, and how users actually interact with them — not just how they're supposed to.
+## What I Focus On
 
-I don't treat quality as a final step, or product thinking as something that belongs to a PM. Both run through the entire lifecycle: design decisions, implementation, testing, and what the user ends up feeling.
+* 🧩 Product Engineering
+* 💻 Frontend Development (React, Next.js, TypeScript)
+* 🏗️ System Design & Software Architecture
+* ✅ Quality Engineering & Test Automation
+* 🤖 AI-powered Developer Tools
+* ♿ Accessibility & User Experience
 
-Before jumping into solutions, I spend time understanding the problem:
-- identifying patterns and system behavior
-- anticipating edge cases before they hit production
-- connecting technical decisions to real user impact
-- designing with intention, not by default
+## Tech Stack
 
-Lately I've been going deeper into system design and software architecture, with a focus on scalability and maintainability — because architecture decisions *are* long-term product decisions.
+**Frontend**
+React · Next.js · TypeScript · JavaScript
 
-## ♾️ My perspective
+**Backend**
+Python · REST APIs
 
-I'm autistic, and that's part of how I work, not a footnote. It gives me a level of attention to detail and pattern recognition that lets me catch inconsistencies, edge cases, and opportunities for improvement that can easily get missed. Combined with my focus on accessibility, this shapes how I contribute to building more inclusive, reliable, and thoughtful products.
+**Testing & Quality**
+Playwright · Cypress · Manual & Automated Testing
 
-## 🛠️ Stack
+**Engineering**
+Git · CI/CD · Docker *(learning)*
 
-**Frontend:** React, Next.js, JavaScript/TypeScript
-**Backend:** Python, APIs, system design fundamentals
-**Testing / QA:** Cypress (E2E), manual and automated testing
-**Tools:** Git, REST APIs, CI/CD
-**Concepts:** Accessibility, scalable architecture, Agile (Scrum/Kanban)
-**No code: Lovable, Webflow, Wordpress
+## Currently Exploring
 
-## 🌱 Interests
+* Software Architecture & System Design
+* AI for Product Development
+* Developer Experience (DX)
+* Scalable Engineering Practices
+* Building products from idea to production
 
-- UX and human-centered design
-- Accessibility in software
-- System design and architecture
-- AI-assisted creative projects
-- Technology with social impact
+## Featured Projects
 
-## 🌐 Let's connect
+🚧 This portfolio is actively growing.
 
-If you're building products where product thinking, user experience, and engineering quality actually matter, let's talk.<br>
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/arianna-avalos-a6a38b224/)
+Every repository represents a real engineering challenge, focusing on product thinking, architecture, quality, and continuous learning—not just code.
+
+## Let's Connect
+
+I'm always interested in conversations about product engineering, software architecture, quality, accessibility, and AI. <br>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/arianna-avalos-a6a38b224/) <br>
+
+Thanks for stopping by! 👋
+
+
 
