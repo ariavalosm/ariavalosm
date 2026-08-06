@@ -48,7 +48,7 @@ Every repository represents a real engineering challenge, focusing on product th
 ## Let's Connect
 
 I'm always interested in conversations about product engineering, software architecture, quality, accessibility, and AI. <br>
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/arianna-avalos-a6a38b224/) <br>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ariannaavalosm) <br>
 
 Thanks for stopping by! 👋
 
